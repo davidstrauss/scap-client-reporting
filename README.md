@@ -1,6 +1,6 @@
 # SCAP Client Reporting
 
-An agent for automated, lightweight SCAP client reporting, delivered as a [systemd portable service](https://systemd.io/PORTABLE_SERVICES).
+An agent for automated, lightweight SCAP client reporting.
 
 ## Client Installation and Enrollment
 
